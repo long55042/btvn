@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850759279384",
+    "project_id": "baikiemtra-ec8af",
+    "storage_bucket": "baikiemtra-ec8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850759279384:android:75e16b668733439d6e746d",
+        "android_client_info": {
+          "package_name": "bkt.com.example.baikiemtra1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850759279384-0b73tlva2g6re580g03i6tlk5qd0gkau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY7c5GjP5kL5XwIiQM1oi0erXFzrmoxkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850759279384-0b73tlva2g6re580g03i6tlk5qd0gkau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
